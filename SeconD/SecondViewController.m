@@ -17,7 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"ЗИГ!мунд Фрейд");
+    NSLog(@"%@", _text);
 }
 
 - (IBAction)backTap:(id)sender{
